@@ -56,7 +56,7 @@ Set Dele On
 
 // Mensagens de Tela Inicial
 aAdd( aSay, cDesc1 )
-aAdd( aSay, cDesc2 )s
+aAdd( aSay, cDesc2 )
 aAdd( aSay, cDesc3 )
 aAdd( aSay, cDesc4 )
 aAdd( aSay, cDesc5 )
